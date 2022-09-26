@@ -1,0 +1,51 @@
+
+
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+}
+
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./images/ba1.jpg);
+    background-position: center;
+    background-size:cover;
+    height: 64rem;
+}
+
+
+
+.img-logo{
+    width: 12rem;
+    height: 7rem;
+    font-size: 5rem;
+    margin-left: 10rem;
+}
+
+
+.Textmargin{
+    margin-top: 20rem;
+        margin-left: 10rem;
+        margin-right: 10rem;
+}
+
+.Textmargin p{
+    margin-left: 50rem;
+}
+
+
+.cardMargin{
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+.footer{
+    background-color: rgb(19, 47, 70);
+    justify-content: center;
+    text-align: center;
+}
+
+.footer a{
+    text-decoration: none;
+}
